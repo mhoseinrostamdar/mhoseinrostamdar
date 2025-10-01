@@ -5,7 +5,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MohammadHoseinRostamdar)  
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.hosein.rostamdar@gmail.com)  
-portfolio : mhoseinrostamdar.github.io
+📝 Find My Resume.
+🔗 Visit My Portfolio.
 ---
 
 ## ⚡ Tech Stack  
