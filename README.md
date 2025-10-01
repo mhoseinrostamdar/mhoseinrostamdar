@@ -5,7 +5,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MohammadHoseinRostamdar)  
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.hosein.rostamdar@gmail.com)  
-📝 Find My Resume.
+📝 Find My **<a href='https://raw.githubusercontent.com/mhoseinrostamdar/Resume/main/resume.pdf' target="_blank">Resume</a>.**
 🔗 Visit My **<a href='https://mhoseinrostamdar.github.io' target="_blank">Portfolio</a>.**
 ---
 
